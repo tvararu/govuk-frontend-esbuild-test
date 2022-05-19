@@ -66,6 +66,14 @@ error Command failed with exit code 1.
 info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
 ```
 
+## Solution
+
+Use `--resolve-extensions` https://esbuild.github.io/api/#resolve-extensions:
+
+```sh
+esbuild index.js --bundle --resolve-extensions=.mjs,.js
+```
+
 ## Licence
 
 Public domain.
