@@ -4,5 +4,9 @@
   "main": "index.js",
   "author": "Theodor Vararu <theo@vararu.org>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "esbuild": "^0.14.39",
+    "govuk-frontend": "^4.1.0"
+  }
 }
