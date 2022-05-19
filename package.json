@@ -5,6 +5,9 @@
   "author": "Theodor Vararu <theo@vararu.org>",
   "license": "MIT",
   "private": true,
+  "engines" : {
+    "node" : ">=18.0.0"
+  },
   "dependencies": {
     "esbuild": "^0.14.39",
     "govuk-frontend": "^4.1.0"
