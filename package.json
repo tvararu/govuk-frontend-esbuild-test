@@ -1,0 +1,8 @@
+{
+  "name": "govuk-frontend-esbuild-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Theodor Vararu <theo@vararu.org>",
+  "license": "MIT",
+  "private": true
+}
