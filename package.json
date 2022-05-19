@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Theodor Vararu <theo@vararu.org>",
-  "license": "MIT",
+  "license": "Public domain",
   "private": true,
   "engines" : {
     "node" : ">=18.0.0"
